@@ -1,0 +1,41 @@
+Dict
+1) Dictionaries are mutable
+2) keys must be unique and immutable
+3) values can be any type
+
+methods
+1) get(key)
+2) keys()
+3) values()
+4) items()
+5) update() d.update({"name": "Sam"})
+6) Pop(key) - remove and return value
+7) popitem() removes the last pair
+8) clear()
+9) Copy()
+
+
+String --
+
+1) Strings are ordered
+2) Strings are immutable
+3) Strings support slicing & indexing
+
+
+methods
+
+1) upper() - 
+2) lower()
+3) capitalize()
+4) strip() "ilikepython"
+5) replace() "pello".replace("H","p")
+6) Split() "a,b,c".Split(",") ["a","b","c"]
+7) Join() " ".join(["a","b","c"]) "a,b,c"
+8) find()
+9) count("a")
+10)startswith() 
+11) endswith()
+12) isdigit()
+13) isalpha()
+
+

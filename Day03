@@ -1,0 +1,61 @@
+Datatypes
+
+1) List
+* Lists are ordered
+* Lists are mutable
+* Lists allow duplicates values
+* indexing starts from 0
+
+Methods
+1) append() - it adds and element at the end
+2) insert() - insert element at specific index
+3) remove()- it will remove the first match
+4) pop() - it will remove the last item by default
+5) sort() - it will sort by ascending ordered
+6) reverse() - it reverse the list
+7) count() - counts the items
+8) index() - we can get the index
+9) copy() - 
+10)clear() - remove all the items
+
+
+Tuple
+1) Tuples are ordered
+2) Tuples are immutable
+3) Tuples allow duplicates
+4) indexing starts from 0
+
+Methods
+1) count()
+2) index()
+
+
+
+Set
+1) Sets are unordered(no index)
+2) sets are mutable
+3) Sets do not allow duplicates
+4) Mathematical operations
+
+Methods
+1) add() - it will add 
+2) remove() - it will remove an item
+3) pop() - it will remove random element
+4) clear() - removes all element
+5) union() - combine sets
+6) intersection() - common elements
+
+
+
+
+Dict
+1) Dictionaries are mutable
+2) keys must be unique and immutable
+3) values can be any type
+
+methods
+1) get(key)
+2) keys()
+3) values()
+4) items()
+5) update() d.update({"name": "Sam"})
