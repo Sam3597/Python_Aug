@@ -1,0 +1,25 @@
+File Handling
+
+File MOdes -
+
+1) "r" - Read only
+2) "w" - Write (Creates new if not exist / overwrites it)
+3) "a" - append
+4) "x" - Create
+5) "t" - Text (Default)
+6) "b" - Binary (images, videos)
+
+
+Function in file Handling
+
+1) open(filename, mode) 
+2) close()
+3) file.read()
+4) readline()
+5) readlines()
+6) write(string)
+7) writelines(['first line', 'second line'])
+8) file.name, file.mode, file.closed
+
+
+.txt, .csv, .jason

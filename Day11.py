@@ -33,6 +33,7 @@ def deleteStudent(roll):
     # students = [ s for s in students if s['roll'] != roll]
     # print("Student deleted Successfully")
     # student = searchStudent(roll)
+    
     student = searchStudent(roll)
     
     students.remove(student)
