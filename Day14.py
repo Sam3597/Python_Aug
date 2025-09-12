@@ -47,9 +47,9 @@ with open("sample.txt", "w") as f :
 #         print("Not found")
 
 
-with open("sample.txt", "r") as f :
-    for line in f:
-        print(line)
+# with open("sample.txt", "r") as f :
+#     for line in f:
+#         print(line)
 
 
 

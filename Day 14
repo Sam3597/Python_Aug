@@ -12,7 +12,7 @@ File MOdes -
 
 Function in file Handling
 
-1) open(filename, mode) 
+1) with open(filename, mode) as file 
 2) close()
 3) file.read()
 4) readline()

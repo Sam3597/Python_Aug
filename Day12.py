@@ -34,11 +34,11 @@
 # print(even)
 
 
-words = ['pen', 'book', 'bag', 'notebook']
+# words = ['pen', 'book', 'bag', 'notebook']
 
-long_word = list(filter(lambda w: len(w) > 3, words))
+# long_word = list(filter(lambda w: len(w) > 3, words))
 
-print(long_word)
+# print(long_word)
 
 
 

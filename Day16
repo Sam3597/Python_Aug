@@ -1,0 +1,6 @@
+modules
+
+1) In built modules
+(Math, random, datetime, os module)
+
+print(math.pi)

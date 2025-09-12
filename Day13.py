@@ -74,10 +74,10 @@ from functools import reduce
 # file.close()
 
 
-file = open("newFile.txt", "r")
+# file = open("newFile.txt", "r")
 
-data = file.read()
+# data = file.read()
 
-print(data)
+# print(data)
 
-file.close()
+# file.close()
