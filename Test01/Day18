@@ -1,0 +1,33 @@
+
+
+
+
+# Object Oriented Programming
+
+# 1) Class - 
+# 2) Object - 
+# 3) Encapsulation - 
+# 4) Abstraction - 
+# 5) Inheritance - 
+# 6) Polymorphism - 
+
+
+
+
+class Ganpati:
+    
+    def __init__(self, size, color):
+        self.size = size
+        self.color = color
+    
+    def show_info(self):
+        print(F"Ganpati Statue of size {self.size} and color {self.color}")
+        
+        
+ganpati1 = Ganpati("Small", "Red")
+ganpati2 = Ganpati("big", "Yellow")
+        
+
+ganpati1.show_info()
+ganpati2.show_info()    
+
