@@ -1,0 +1,9 @@
+Abstraction -- Hiding unnecessary details and showing only the essential features.
+
+1) import ABC and abstractmethod from abc
+
+2) A class should have abstract methods to become a abstract class
+
+3) you cannot create a object of abstract class
+
+4) the child class must implement the abstract method, otherwise it will become abstract
