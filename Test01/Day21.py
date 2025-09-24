@@ -1,22 +1,22 @@
-class Teacher:
+# class Teacher:
     
-    def __init__(self):
-        self._name = "Sam" #_Teacher__name
+#     def __init__(self):
+#         self._name = "Sam" #_Teacher__name
         
-    def subject(self):
-        print("Teacher teaches Math")
+#     def subject(self):
+#         print("Teacher teaches Math")
 
 
-class Student(Teacher):
-    def name(self):
-        print(self._name)
-        print("student name is Sam")
+# class Student(Teacher):
+#     def name(self):
+#         print(self._name)
+#         print("student name is Sam")
 
 
-s = Student()
+# s = Student()
 
-s.subject()
-s.name()
+# s.subject()
+# s.name()
 
 
 # class Programmer:
@@ -114,4 +114,8 @@ s.name()
 #         print(" iam both a student and teaching assistant")
         
 # TA = TeachingA()
+
+
+
+
 
