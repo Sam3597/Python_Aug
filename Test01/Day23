@@ -1,0 +1,16 @@
+Exception Handling --
+
+ErrorType --
+
+1) ZeroDivisionError
+2) ValueError (int("abc"))
+3) IndexError
+4) KeyError
+5) FileNotFoundError
+6) NameError - Using variable before defining it
+7) AttributeError - calling a method or attribute that does not exist
+8) ImportError - importing a module or function that does not exist
+9) IndentationError - 
+10) SyntaxError - Invalid closed
+11) MemoryError - When program runs out of MemoryError
+12) OverflowError - Number too large to handle
