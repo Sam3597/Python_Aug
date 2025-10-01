@@ -77,14 +77,14 @@
 
 
 
-try:
-    num1 = int(input("Enter number 1: "))
-    num2 = int(input("Enter number 2: "))
-    result  = num1 / num2
-    print(result)
+# try:
+#     num1 = int(input("Enter number 1: "))
+#     num2 = int(input("Enter number 2: "))
+#     result  = num1 / num2
+#     print(result)
 
-except (ZeroDivisionError, ValueError) as e:
-    print("Error occurred", e)
+# except (ZeroDivisionError, ValueError) as e:
+#     print("Error occurred", e)
     
 
 
